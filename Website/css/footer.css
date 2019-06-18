@@ -61,7 +61,8 @@ footer .company-short-description {
   text-align: justify;
 }
 
-footer .company-short-description, footer .company-short-description * {
+footer .company-short-description,
+footer .company-short-description * {
   color: #f2f2f2;
 }
 
@@ -125,5 +126,20 @@ footer .copyright-row {
   padding: 1em;
   border-top: 1px solid #333;
   color: #f2f2f2;
+}
+
+@media only screen and (max-width: 599px) {
+  footer {
+    border-top: 1px solid black;
+    background-color: #fff;
+  }
+  .company-short-description,
+  .company-short-description b,
+  .footer-content-container h2,
+  .description p,
+  .description b,
+  .copyright-row {
+    color: #000 !important;
+  }
 }
 /*# sourceMappingURL=footer.css.map */

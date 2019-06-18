@@ -41,6 +41,16 @@ header .container .row {
   margin-bottom: 0;
 }
 
+@media only screen and (max-width: 600px) {
+  header {
+    background-color: #80ecff !important;
+  }
+  header a {
+    background-color: #80ecff !important;
+    color: #fff;
+  }
+}
+
 /* Start Menu Section */
 .menu {
   display: -webkit-box;
@@ -89,8 +99,8 @@ header .container .row {
           align-items: center;
   background-color: #fff;
   color: #2d8d9d;
-  -webkit-transition: all .2s ease-in-out;
-  transition: all .2s ease-in-out;
+  -webkit-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
 }
 
 .menu .menu-item:hover {

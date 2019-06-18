@@ -16,6 +16,16 @@ header {
   }
 }
 
+@media only screen and (max-width: 600px) {
+  header {
+    background-color: #80ecff !important;
+  }
+  header a {
+    background-color: #80ecff !important;
+    color: #fff;
+  }
+}
+
 /* Start Menu Section */
 .menu {
   display: flex;
@@ -30,18 +40,20 @@ header {
       top: 100%;
       left: 0;
       display: none;
-      box-shadow: 0 .5em 1em $gray;
+      box-shadow: 0 0.5em 1em $gray;
       min-width: 10em;
       z-index: 1;
 
-      .menu-item { 
-        justify-content: flex-start; 
+      .menu-item {
+        justify-content: flex-start;
         width: 100%;
       }
     }
 
     &:hover {
-      .hoverable { display: block; }
+      .hoverable {
+        display: block;
+      }
     }
   }
 
@@ -50,9 +62,9 @@ header {
     align-items: center;
     background-color: #fff;
     color: $primary-background;
-    transition: all .2s ease-in-out;
+    transition: all 0.2s ease-in-out;
 
-    &:hover { 
+    &:hover {
       color: $accent-text;
       cursor: pointer;
     }

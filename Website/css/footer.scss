@@ -21,7 +21,10 @@ footer {
     line-height: 1.5em;
     text-align: justify;
 
-    &, * { color: $light-gray; }
+    &,
+    * {
+      color: $light-gray;
+    }
   }
 
   .top-product-row {
@@ -55,8 +58,10 @@ footer {
         display: flex;
         flex-direction: column;
         line-height: 1.5em;
-        
-        * { color: $light-gray; }
+
+        * {
+          color: $light-gray;
+        }
       }
     }
   }
@@ -69,5 +74,20 @@ footer {
     padding: 1em;
     border-top: 1px solid #333;
     color: $light-gray;
+  }
+}
+
+@media only screen and (max-width: 599px) {
+  footer {
+    border-top: 1px solid black;
+    background-color: #fff;
+  }
+  .company-short-description,
+  .company-short-description b,
+  .footer-content-container h2,
+  .description p,
+  .description b,
+  .copyright-row {
+    color: #000 !important;
   }
 }

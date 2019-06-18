@@ -1,0 +1,26 @@
+Images :
+Foods :
+https://images.pexels.com/photos/1099680/pexels-photo-1099680.jpeg?cs=srgb&dl=almonds-berries-blackberries-1099680.jpg&fm=jpg
+https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg?cs=srgb&dl=burrito-chicken-close-up-461198.jpg&fm=jpg
+https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg?cs=srgb&dl=basil-blur-cheese-1279330.jpg&fm=jpg
+
+Medicine :
+https://images.pexels.com/photos/415825/pexels-photo-415825.jpeg?cs=srgb&dl=capsules-cure-drug-415825.jpg&fm=jpg
+https://images.pexels.com/photos/50994/medications-cure-tablets-pharmacy-50994.jpeg?cs=srgb&dl=cure-herbal-medications-50994.jpg&fm=jpg
+https://images.pexels.com/photos/414115/pexels-photo-414115.jpeg?cs=srgb&dl=bottle-color-container-414115.jpg&fm=jpg
+
+People :
+https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?cs=srgb&dl=adult-beard-boy-220453.jpg&fm=jpg
+https://images.pexels.com/photos/211050/pexels-photo-211050.jpeg?cs=srgb&dl=adult-beard-city-211050.jpg&fm=jpg
+https://images.pexels.com/photos/1386608/pexels-photo-1386608.jpeg?cs=srgb&dl=baskets-blurred-background-cute-1386608.jpg&fm=jpg
+https://images.pexels.com/photos/1391498/pexels-photo-1391498.jpeg?cs=srgb&dl=beautiful-beauty-blurred-background-1391498.jpg&fm=jpg
+https://images.pexels.com/photos/1406764/pexels-photo-1406764.jpeg?cs=srgb&dl=beautiful-bloom-blossom-1406764.jpg&fm=jpg
+
+Icons:
+https://www.flaticon.com/free-icon/credit-card_126057#term=payment&page=1&position=43
+https://www.flaticon.com/free-icon/plane_1832576#term=shipment%20and%20delivery&page=1&position=11
+https://www.flaticon.com/free-icon/heart_1077035#term=heart&page=1&position=7
+https://www.flaticon.com/free-icon/add-to-cart_70021#term=add%20to%20cart&page=1&position=4
+
+Slider Library:
+https://kenwheeler.github.io/slick/
